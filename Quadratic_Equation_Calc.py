@@ -16,7 +16,6 @@ Although i've published
 
 """
 
-# Please do an upvote if you 👍 😂😂😂
 
 a = float(input("Please enter the coefficient of x²: "))
 
